@@ -33,9 +33,9 @@ PID, 사용자 이름, 우선 순위, NICE 값, 가상 메모리 사용량(VIRT)
 - c: 전체 명령어 라인을 표시하거나 숨김
 - 1: 각 CPU 코어별 사용량을 표시
 
--b: 배치 모드롤 실행
--n: 출력할 갱신 횟수를 지정
--u: 특정 사용자의 프로세만 표시
+- '-b': 배치 모드롤 실행
+- '-n': 출력할 갱신 횟수를 지정
+- '-u': 특정 사용자의 프로세만 표시
 
 <img width="854" alt="image" src="https://github.com/ssswoowoook/opensw/assets/170293211/0afc969c-bfa8-477e-b33a-752412502fbd">
 
