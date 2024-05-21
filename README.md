@@ -11,7 +11,7 @@ top 명령어의 주요 기능
 - 기본적으로 CPU 사용률을 기준으로 프로세스 정렬, but 메모리 사용량, PID 등 다양한 기준으로 정렬 가능
 - 특정 사용자의 프로세스만을 볼 수 있고 특정 조건에 맞는 프로세스를 필터링 가능
 
-top 명령어
+*top 명령어
 <img width="851" alt="image" src="https://github.com/ssswoowoook/opensw/assets/170293211/bde5bd69-6104-4bf8-9652-3dce83df8abc">
 
 top 명령어의 주요 인터페이스 요소
