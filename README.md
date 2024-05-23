@@ -99,7 +99,8 @@ ps 명령어는 리눅스 시스템의 프로세스 정보를 확인하고 관�
 리눅스에서 jobs 명령어는 현재 셀 세션에서 백그라운드 또는 중지된 작업(프로세스)을 표시하는데 사용, 주로 작업 제어 기능과 관련 있으며, 사용자가 실행 중인 프로세스를 관리하는데 유용
 
 jobs 명령어는 현재 쉘 세션에서 실행 중이거나 중지된 모든 작업을 표시
-<img width="859" alt="image" src="https://github.com/ssswoowoook/opensw/assets/170293211/44264081-955c-44d2-968e-a3cc6cf1ebad">
+<img width="821" alt="image" src="https://github.com/ssswoowoook/opensw/assets/170293211/82aa84d8-76aa-4185-929d-6abc99d0b08b">
+
 - 작업 번호: 각 작업에 할당된 번호
 - 작업 상태: 실행 중, 중지됨, 완료됨 등
 - 명령어: 실행된 명령어 라인
